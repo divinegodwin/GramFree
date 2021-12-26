@@ -402,7 +402,7 @@ footer {
 #close {
   width: 50px;
   height: 40px;
-  margin-left: 16rem;
+  margin-left: 17.5rem;
   font-size: 20px;
   border: none;
   background-color: transparent;
@@ -412,7 +412,7 @@ footer {
 }
 
 input {
-  width: 280px;
+  width: 240px;
   margin-left: 0.5rem;
   margin-bottom: 2rem;
   height: 40px;
