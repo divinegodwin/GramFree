@@ -391,6 +391,8 @@ footer {
   transition: 5s;
   transition-duration: 3s;
   display: none;
+  display:flex;
+  flex-direction:column;
 }
 
 .signup-heading {
