@@ -412,7 +412,7 @@ footer {
 }
 
 input {
-  width: 140px;
+  width: 300px;
   margin-left: 0.5rem;
   margin-bottom: 2rem;
   height: 40px;
@@ -475,16 +475,6 @@ label {
   outline: none;
 }
 
-input {
-  width: 350px;
-  margin-left: 0.5rem;
-  margin-bottom: 2rem;
-  height: 40px;
-  font-size: 18px;
-  font-family: monospace;
-  outline-color: #7b49f8;
-}
-
 signin-label {
   margin-left: 1rem;
   margin-bottom: 3px;
@@ -494,7 +484,7 @@ signin-label {
 }
 
 #signin-form-button {
-  width: 350px;
+  width: 280px;
   height: 40px;
   outline: none;
   font-size: 20px;
